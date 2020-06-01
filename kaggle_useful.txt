@@ -1,0 +1,2 @@
+https://www.kaggle.com/petarluketina/big-five-personality-traits
+https://www.kaggle.com/akdagmelih/five-personality-clusters-k-means/comments
